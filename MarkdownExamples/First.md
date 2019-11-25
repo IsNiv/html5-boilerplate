@@ -5,6 +5,11 @@ This is *just* some text containing markdown formatting examples.
 3. Third
 2. Fourth
 
+- unordered list
+- 2 blah
+- 3 foo
+- fizz
+- buzz
 
 
 *This is italic*
