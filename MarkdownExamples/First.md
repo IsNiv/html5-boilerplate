@@ -1,5 +1,12 @@
 This is *just* some text containing markdown formatting examples.
 
+1. First element of ordered list, gives list start number
+4. Second
+3. Third
+2. Fourth
+
+
+
 *This is italic*
 
 __This is bold__
