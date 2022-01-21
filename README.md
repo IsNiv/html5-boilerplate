@@ -1,5 +1,8 @@
 # [HTML5 Boilerplate](https://html5boilerplate.com/)
 
+*Adding some new text here for git demo*
+This is Bold<p>
+
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
